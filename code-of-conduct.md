@@ -62,6 +62,7 @@ If you are subject to or witness unacceptable behavior, or have any other concer
 You can use any of the contact methods listed below to report any type of misconduct against this code of conduct.
 
 Email: itbrcanada@hotmail.com
+or
 Online form: [Code of Conduct violation reporting form](https://forms.gle/FiUbgKAZtKMNh5kC8)
 
 Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
@@ -107,4 +108,4 @@ Email: itbrcanada@hotmail.com
 
 ## 12. License and attribution
 
-This document is under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/). and was adapted from the originals available at [Citizen Code of Conduct](https://github.com/stumpsyn/policies/blob/master/citizen_code_of_conduct.md) and [Contributor Covenant](https://www.contributor-covenant.org/)
+This document is under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/) and was adapted from the originals available at [Citizen Code of Conduct](https://github.com/stumpsyn/policies/blob/master/citizen_code_of_conduct.md) and [Contributor Covenant](https://www.contributor-covenant.org/)
