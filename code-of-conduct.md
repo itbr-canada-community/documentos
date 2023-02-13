@@ -8,9 +8,9 @@ This code of conduct outlines our expectations for all those who participate in 
 
 We invite all those who participate in ITBR Canada to help us create safe and positive experiences for everyone.
 
-## 2. Open [Source/Culture/Tech] Citizenship
+## 2. Open Culture Citizenship
 
-A supplemental goal of this Code of Conduct is to increase open [source/culture/tech] citizenship by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community.
+A supplemental goal of this Code of Conduct is to increase open culture citizenship by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community.
 
 Communities mirror the societies in which they exist and positive action is essential to counteract the many forms of inequality and abuses of power that exist in society.
 
@@ -57,9 +57,12 @@ If a community member engages in unacceptable behavior, the community organizers
 
 ## 7. Reporting Guidelines
 
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. [CONTACT_INFO_HERE].
+If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible.
 
-[LINK_TO_REPORTING_GUIDELINES]
+You can use any of the contact methods listed below to report any type of misconduct against this code of conduct.
+
+Email: itbrcanada@hotmail.com
+Online form: [Code of Conduct violation reporting form](https://forms.gle/FiUbgKAZtKMNh5kC8)
 
 Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
 
@@ -67,28 +70,30 @@ Additionally, community organizers are available to help community members engag
 
 Community leadership will follow these Community Impact Guidelines to determine the consequences of any action they deem to violate this Code of Conduct:
 
-#### 1. Corrective Action
+### 1. Corrective Action
 Community Impact: Use of inappropriate language or other behavior that is considered unprofessional or frowned upon by the community.
 
 Consequence: Written, private notice from community leadership clarifying the nature of the violation and explaining why the behavior was inappropriate. A public apology may be requested.
 
-#### 2. Warning
+### 2. Warning
 Community Impact: Violation through a single incident or repeated actions.
 
 Consequence: Warning with consequences for repeated behavior. There may be no interactions with those involved, including unsolicited interactions with those applying the Code of Conduct, for a specified period. This includes avoiding interactions in community spaces as well as external channels such as social media. Violation of these terms may lead to a temporary or permanent ban.
-#### 3. Temporary Ban
+
+### 3. Temporary Ban
 Community Impact: Serious violation of community standards, including continued inappropriate behavior.
 
 Consequence: Temporary ban from any type of public interaction or communication with the community for a certain period. Public or private interactions with those involved, including unsolicited interactions with those applying the Code of Conduct, will be prohibited. Violation of these terms may result in a permanent ban.
-#### 4. Permanent Ban
+
+### 4. Permanent Ban
 Community Impact: Demonstrating a pattern of violating community norms, including continuing inappropriate behavior, harassing a person, or attacking or belittling classes of people.
 
 Consequence: Permanent banning of any kind of public interaction within the community.
+
 ## 9. Addressing Grievances
 
-If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify [GOVERNING_BODY] with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies. [LINK_TO_POLICY]
+If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify the a community organizer with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies.
 
-[NOTE: Every organization's governing policies should dictate how you handle warnings and expulsions of community members. It is strongly recommended that you mention those policies here or in Section 7 and that you include a mechanism for addressing grievances.]
 
 ## 10. Scope
 
@@ -98,18 +103,8 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 ## 11. Contact info
 
-[YOUR CONTACT INFO HERE -- this should be a single person or a small team who can respond to issues directly]
+Email: itbrcanada@hotmail.com
 
 ## 12. License and attribution
 
-The Citizen Code of Conduct is distributed by [Stumptown Syndicate](http://stumptownsyndicate.org) under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/). 
-
-Portions of text derived from the [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Geek Feminism Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
-
-_Revision 2.3. Posted 6 March 2017._
-
-_Revision 2.2. Posted 4 February 2016._
-
-_Revision 2.1. Posted 23 June 2014._
-
-_Revision 2.0, adopted by the [Stumptown Syndicate](http://stumptownsyndicate.org) board on 10 January 2013. Posted 17 March 2013._
+This document is under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/). and was adapted from the originals available at [Citizen Code of Conduct](https://github.com/stumpsyn/policies/blob/master/citizen_code_of_conduct.md) and [Contributor Covenant](https://www.contributor-covenant.org/)
