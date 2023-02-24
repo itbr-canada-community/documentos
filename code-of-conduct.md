@@ -69,7 +69,7 @@ Additionally, community organizers are available to help community members engag
 
 ## 8. Application guidelines
 
-Community leadership will follow these Community Impact Guidelines to determine the consequences of any action they deem to violate this Code of Conduct:
+Community leadership will follow the guideline below to determine the consequences of any action they deem to violate this Code of Conduct:
 
 ### 1. Corrective Action
 Community Impact: Use of inappropriate language or other behaviour that is considered unprofessional or frowned upon by the community.
@@ -93,8 +93,7 @@ Consequence: Permanent banning of any kind of public interaction within the comm
 
 ## 9. Addressing Grievances
 
-If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify a community organizer with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies.
-
+If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify a community organizer with a concise description of your grievance using the contact methods already provide by this document. Your grievance will be handled in accordance with our existing governing policies.
 
 ## 10. Scope
 
