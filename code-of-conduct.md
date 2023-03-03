@@ -20,28 +20,28 @@ If you see someone who is making an extra effort to ensure our community is welc
 
 The following behaviours are expected and requested of all community members:
 
-  * Participate in an authentic and active way. In doing so, you contribute to the health and longevity of this community.
-  * Exercise consideration and respect in your speech and actions.
-  * Attempt collaboration before conflict.
-  * Refrain from demeaning, discriminatory, or harassing behaviour and speech.
-  * Be mindful of your surroundings and of your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
-  * Remember that community event venues may be shared with members of the public; please be respectful to all patrons of these locations.
+- Participate in an authentic and active way. In doing so, you contribute to the health and longevity of this community.
+- Exercise consideration and respect in your speech and actions.
+- Attempt collaboration before conflict.
+- Refrain from demeaning, discriminatory, or harassing behaviour and speech.
+- Be mindful of your surroundings and of your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
+- Remember that community event venues may be shared with members of the public; please be respectful to all patrons of these locations.
 
 ## 4. Unacceptable Behaviour
 
 The following behaviours are considered harassment and are unacceptable within our community:
 
-  * Violence, threats of violence or violent language directed against another person.
-  * Sexist, racist, homophobic, transphobic, ableist or otherwise discriminatory jokes and language.
-  * Posting or displaying sexually explicit or violent material.
-  * Posting or threatening to post other people's personally identifying information ("doxing").
-  * Personal insults, particularly those related to gender, sexual orientation, race, religion, or disability.
-  * Inappropriate photography or recording.
-  * Inappropriate physical contact. You should have someone's consent before touching them.
-  * Unwelcome sexual attention. This includes sexualized comments or jokes; inappropriate touching, groping, and unwelcomed sexual advances.
-  * Deliberate intimidation, stalking or following (online or in person).
-  * Advocating for, or encouraging, any of the above behaviour.
-  * Sustained disruption of community events, including talks and presentations.
+- Violence, threats of violence or violent language directed against another person.
+- Sexist, racist, homophobic, transphobic, ableist or otherwise discriminatory jokes and language.
+- Posting or displaying sexually explicit or violent material.
+- Posting or threatening to post other people's personally identifying information ("doxing").
+- Personal insults, particularly those related to gender, sexual orientation, race, religion, or disability.
+- Inappropriate photography or recording.
+- Inappropriate physical contact. You should have someone's consent before touching them.
+- Unwelcome sexual attention. This includes sexualized comments or jokes; inappropriate touching, groping, and unwelcomed sexual advances.
+- Deliberate intimidation, stalking or following (online or in person).
+- Advocating for, or encouraging, any of the above behaviour.
+- Sustained disruption of community events, including talks and presentations.
 
 ## 5. Weapons Policy
 
@@ -67,44 +67,81 @@ Online form: [Code of Conduct violation reporting form](https://forms.gle/FiUbgK
 
 Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behaviour feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
 
-## 8. Application guidelines
+## 8. Anti-Spam Policy
+
+- Do not send spam messages to other users, including unsolicited advertising or promotional content.
+- Do not create multiple accounts for the purpose of sending spam messages or promoting products/services.
+- Avoid posting excessive external links or references, as this may be considered spam unless it is relevant and adds value to the discussion.
+- Do not use contact information of other users for marketing or promotional purposes unless you have explicitly obtained their permission to do so.
+- If you receive spam messages from other users, report them immediately to the community organization team using the tool already mentioned in Section 7.
+
+Our goal is to maintain a community free of spam and excessive promotion, but we understand that users may occasionally want to share relevant and valuable information with the community. If you have any questions about what is or is not considered spam, please contact the moderation team for clarification.
+
+## 9. Anti-piracy Policy
+
+We take intellectual property rights very seriously and do not condone piracy in any form. Therefore, we expect all users to comply with copyright laws and refrain from any activities that infringe upon the intellectual property rights of others.
+
+The following activities are strictly prohibited:
+
+- Uploading, sharing, or distributing copyrighted material without permission from the owner.
+- Using our platform to facilitate the sale or distribution of counterfeit goods or unauthorized copies of copyrighted material.
+- Posting links or references to sites that offer pirated content.
+- Engaging in activities that violate intellectual property rights.
+
+If we receive a complaint or notice of alleged copyright infringement, we will take appropriate action, which may include removing the infringing material, removing the person our community and reporting it to the authorities.
+
+## 10. Community name rights and use of the brand "ITBR Canada"
+
+The brand "ITBR Canada" and any associated logos or trademarks are the exclusive property of the community organizers. Any use of the community name or associated branding without explicit consent from the organizers is strictly prohibited.
+
+Individuals or organizations seeking to use the "ITBR Canada" name or branding must obtain prior formal consent from the community organizers. Such consent may be granted or denied at the sole discretion of the organizers.
+
+In addition, any use of the community name or branding must comply with the community's code of conduct. The organizers reserve the right to revoke consent at any time if they deem that the use of the community name or branding is detrimental to the community's reputation or values.
+
+We take the protection of our community name and branding seriously, and we will take appropriate legal action against any individual or organization that infringes upon our intellectual property rights.
+
+## 11. Application guidelines
 
 Community leadership will follow the guideline below to determine the consequences of any action they deem to violate this Code of Conduct:
 
 ### 1. Corrective Action
+
 Community Impact: Use of inappropriate language or other behaviour that is considered unprofessional or frowned upon by the community.
 
 Consequence: Written, private notice from community leadership clarifying the nature of the violation and explaining why the behaviour was inappropriate. A public apology may be requested.
 
 ### 2. Warning
+
 Community Impact: Violation through a single incident or repeated actions.
 
 Consequence: Warning with consequences for repeated behaviour. There may be no interactions with those involved, including unsolicited interactions with those applying the Code of Conduct, for a specified period. This includes avoiding interactions in community spaces as well as external channels such as social media. Violation of these terms may lead to a temporary or permanent ban.
 
 ### 3. Temporary Ban
+
 Community Impact: Serious violation of community standards, including continued inappropriate behaviour.
 
 Consequence: Temporary ban from any type of public interaction or communication with the community for a certain period. Public or private interactions with those involved, including unsolicited interactions with those applying the Code of Conduct, will be prohibited. Violation of these terms may result in a permanent ban.
 
 ### 4. Permanent Ban
+
 Community Impact: Demonstrating a pattern of violating community norms, including continuing inappropriate behaviour, harassing a person, or attacking or belittling classes of people.
 
 Consequence: Permanent banning of any kind of public interaction within the community.
 
-## 9. Addressing Grievances
+## 12. Addressing Grievances
 
 If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify a community organizer with a concise description of your grievance using the contact methods already provide by this document. Your grievance will be handled in accordance with our existing governing policies.
 
-## 10. Scope
+## 13. Scope
 
 We expect all community participants (contributors, paid or otherwise; sponsors; and other guests) to abide by this Code of Conduct in all community venues--online and in-person--as well as in all one-on-one communications pertaining to community business.
 
 This code of conduct and its related procedures also applies to unacceptable behaviour occurring outside the scope of community activities when such behaviour has the potential to adversely affect the safety and well-being of community members.
 
-## 11. Contact info
+## 14. Contact info
 
 Email: itbrcanada@hotmail.com
 
-## 12. License and attribution
+## 15. License and attribution
 
 This document is under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/) and was adapted from the originals available at [Citizen Code of Conduct](https://github.com/stumpsyn/policies/blob/master/citizen_code_of_conduct.md) and [Contributor Covenant](https://www.contributor-covenant.org/)
