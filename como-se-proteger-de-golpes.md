@@ -8,15 +8,18 @@ O foco desse documento é o mercado de TI no Canadá, porém muitas das sugestõ
 
 Antes de se candidatar a um emprego em no Canadá, é importante pesquisar a empresa para verificar se ela é legítima e confiável. Pesquise na internet para encontrar informações sobre a empresa, como seu endereço, número de telefone, site oficial e presença nas redes sociais. Além disso, verifique se a empresa é registrada e licenciada para operar no Canadá. Isso pode ser feito por meio do site do governo canadense, onde é possível encontrar informações sobre empresas registradas e licenciadas em todo o país. Se a empresa não tiver informações ou não puder ser encontrada, é provável que seja uma fraude.
 
-Utilize sites como o Glassdoor, Fish Bowl e LinkedIn para encontrar detalhes sobre a empresa. Se houver poucos detalhes ou nenhum, a chance de ser uma fraude ou golpe é muito grande. Utilizando o LinkedIn você pode também encontrar funcionários que trabalham na empresa. Tente encontrar pessoas em comum com esses funcionários e faça network com elas, pergunte sobre a empresa e as condições de trabalho. Em geral, as pessoas recebem bem esse tipo de contato, desde que feito com profissionalismo e educação.
+> Mesmo no Canadá existem empresas onde a cultura pode ser tóxica. Sempre pesquisa antes.
+
+Utilize sites como o Glassdoor, Fish Bowl e LinkedIn para encontrar detalhes sobre a empresa e ter uma noção do que os funcionários pensam sobre a cultura da empresa. Se houver poucos detalhes ou nenhum, a chance de ser uma fraude ou golpe é muito grande. Utilizando o LinkedIn você pode também encontrar funcionários que trabalham na empresa. Tente encontrar pessoas em comum com esses funcionários e faça network com elas, pergunte sobre a empresa e as condições de trabalho. Em geral, as pessoas recebem bem esse tipo de contato, desde que feito com profissionalismo e educação.
 
 ## Pesquise sobre o recrutador antes de interagir
 
-Antes de interagir com um recrutador no LinkedIn, é essencial pesquisar sobre a pessoa e a empresa que ela representa. Certifique-se de que o perfil do recrutador seja autêntico e verifique se a empresa e a posição que estão oferecendo são legítimas. Pesquise a empresa em sites como o Glassdoor para ler as avaliações dos funcionários e ter uma ideia da cultura e ambiente de trabalho da empresa.
+Antes de interagir com um recrutador no LinkedIn, é essencial pesquisar sobre a pessoa e a empresa que ela representa.
 
-Ao fazer sua pesquisa, procure por sinais de alerta, como uma empresa que parece boa demais para ser verdade ou uma vaga que parece incompatível com suas habilidades. Se você receber uma oferta de emprego que pareça suspeita, verifique se a empresa é real e ligue para o número de telefone fornecido para confirmar as informações.
+- Certifique-se de que o perfil do recrutador seja autêntico e verifique na página da empresa se a posição que estão oferecendo é legítima.
+- Analise se o recrutador tem uma presença online ou se há conexões em comum com você.
 
-Lembre-se de que os golpistas muitas vezes se passam por recrutadores e usam táticas sofisticadas para enganar as pessoas. Eles podem até mesmo criar sites falsos ou usar endereços de e-mail que parecem oficiais. Portanto, sempre faça sua pesquisa e confirme as informações antes de compartilhar suas informações pessoais ou se comprometer com qualquer coisa.
+Lembre-se de que os golpistas muitas vezes se passam por recrutadores e usam táticas sofisticadas para enganar as pessoas. Eles podem até mesmo criar sites falsos ou usar endereços de e-mail que parecem oficiais. Portanto, sempre faça uma pesquisa cabal e confirme as informações antes se comunicar com essa pessoa.
 
 Ao seguir essas precauções, você pode evitar golpes de recrutamento falsos e garantir que sua busca por emprego seja segura e bem-sucedida. Lembre-se de que, quando se trata de golpes de recrutamento, a prevenção é a chave.
 
@@ -29,10 +32,13 @@ As ofertas de emprego podem parecer legítimas à primeira vista, mas podem cont
 ## Evite enviar informações pessoais ou dinheiro para empresas desconhecidas
 
 Nunca envie informações pessoais ou dinheiro para empresas desconhecidas, ou que você não tenha verificado a autenticidade. É comum que fraudadores solicitem dinheiro antecipado para um emprego que não existe, ou solicitem informações pessoais para uso indevido. Se uma empresa solicitar dinheiro para cobrir despesas de viagem ou custos de visto, por exemplo, isso deve ser um sinal de alerta. É importante lembrar que empresas legítimas não solicitam dinheiro antecipado de seus funcionários.
+Fique atento a qualquer tipo de pressão ou urgência para fornecer informações ou tomar uma decisão imediata. Golpistas muitas vezes usam táticas de pressão para forçar a vítima a agir rapidamente.
 
 > Nunca envie informações por presa ou pressão. Agir por impulso pode levar você a cair em um golpe.
 
 É importante ressaltar que há algumas informações pessoais que nunca devem ser compartilhadas durante o processo de busca por empregos em TI no Canadá. Isso inclui o número de Seguro Social (SIN ou Social Insurance Number), dados do passaporte, cartão de crédito, número de conta, seus dados do CRA (Canada Revenue Agency) ou senha de banco, ou qualquer outra informação financeira sensível. Além disso, é importante ter cautela ao compartilhar informações pessoais, como endereço residencial, seu status no país, número de telefone e até seu endereço de e-mail, especialmente com empresas desconhecidas ou não verificadas. Essas informações podem ser usadas para fins de phishing/scam ou para obter acesso a outras informações pessoais. Em geral, é melhor manter essas informações pessoais em sigilo até que uma oferta de emprego seja feita e a empresa tenha sido verificada como legítima e confiável.
+
+> Nunca envie dinheiro para recrutadores ou empresas.
 
 Uma vez que você aceitar uma oferta de trabalho e ela for assinada por ambas as partes a empresa contratante irá solicitar o seu SIN number. Isso deve ser feito somente por vias formais, como, por exemplo o RH da empresa.
 
@@ -50,6 +56,10 @@ Algumas das vagas oferecidas online podem parecer atraentes, mas também podem s
 - Procure sobre a empresa em sites como o Glassdoor e verifique as avaliações dos funcionários.
 - Fique atento a emails com erros de ortografia ou gramática.
 - Fique atento a mensagens que não são endereçadas pessoalmente a você.
+- Verifique se a empresa é legítima por verificar se ela têm uma presença online estabelecida.
+- Verifique também se a empresa está registrada junto aos órgãos regulatórios relevantes.
+
+Você pode utilizar o [website da Canada's Business Registries](https://beta.canadasbusinessregistries.ca/search) para verificar a existência da empresa como entidade registrada.
 
 ## Como se proteger no LinkedIn
 
@@ -77,7 +87,7 @@ Lembre-se de que, mesmo que você tenha enviado informações pessoais para um f
 
 Se você enviou informações pessoais para um fraudador por engano durante a busca por empregos em TI no Canadá, é importante agir rapidamente para minimizar os danos. Aqui estão algumas etapas que você deve seguir:
 
-- Entre em contato com as autoridades: informe a polícia canadense sobre o ocorrido e relate o caso de fraude. Eles podem ajudá-lo a tomar medidas legais contra o fraudador e a proteger suas informações pessoais.
+- Entre em contato com as autoridades: informe a polícia canadense sobre o ocorrido e relate o caso de fraude. Eles podem ajudá-lo a tomar medidas legais contra o fraudador e a proteger suas informações pessoais. Um desses órgãos é o [Departamento de Cidadania e Imigração do Canadá](https://www.canada.ca/en/immigration-refugees-citizenship.html).
 
 - Notifique os órgãos de proteção de crédito: se você forneceu informações financeiras, como número de cartão de crédito, entre em contato com as agências de proteção de crédito e informe sobre o ocorrido. Eles podem ajudar a monitorar suas contas e prevenir possíveis fraudes.
 
@@ -86,6 +96,8 @@ Se você enviou informações pessoais para um fraudador por engano durante a bu
 - Informe outras empresas: se você compartilhou suas informações pessoais com o fraudador em busca de emprego, é importante notificar outras empresas com as quais você se candidatou recentemente. Eles podem tomar medidas para proteger suas informações pessoais e alertar outros candidatos que possam ter sido afetados.
 
 - Atualize suas senhas: se você forneceu senhas para o fraudador, altere-as imediatamente em todas as suas contas online e aplicativos. Use senhas fortes e exclusivas para cada conta para evitar futuras violações de segurança.
+
+Quanto mais cedo você denunciar o golpe, melhor será a chance de recuperar seu dinheiro e evitar que outros sejam vítimas do mesmo golpe.
 
 ## Como o ITBR Canada pode ajudar
 
