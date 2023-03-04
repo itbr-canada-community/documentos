@@ -100,7 +100,7 @@ Além disso, qualquer uso do nome ou da marca da comunidade deve estar em confor
 
 Levamos a proteção do nosso nome e marca de comunidade a sério e tomaremos medidas legais apropriadas contra qualquer indivíduo ou organização que infrinja nossos direitos de propriedade intelectual.
 
-## 8. Diretrizes á serem seguidas caso houver violação do código de conduta
+## 11. Diretrizes á serem seguidas caso houver violação do código de conduta
 
 A liderança da comunidade seguirá as diretrizes abaixo para determinar as consequências de qualquer ação que considerem violar este Código de Conduta:
 
